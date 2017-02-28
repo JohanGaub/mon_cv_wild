@@ -1,0 +1,55 @@
+body{
+  background-color: rgb(104, 187, 285);
+  text-align: justify;
+  display: flex;
+}
+ul{
+  font-size: 12px;
+}
+.experience{
+  background-color: rgb(0, 62, 89);
+  color: yellow;
+  margin : 5px;
+  padding : 5px;
+  font-size: 0.8em;
+}
+.study{
+  background-color: blue;
+  color: white;
+  margin : 5px;
+  padding : 5px;
+  font-size: 0.8em;
+}
+#LEFT-BOX{
+  float: left;
+  width: 20%;
+	height: 900px;
+  background-color: rgb(9, 30, 45);
+  color: white;
+}
+#RIGHT-BOX{
+  background-color: rgb(53, 163, 211);
+  float: right;
+  width: 80%;
+	height: 900px;
+}
+#EXPERIENCES-BOX{
+  background-color: white;
+  margin : 5px;
+  padding : 10px;
+  border: black solid 2px;
+}
+#STUDIES-BOX{
+  background-color: white;
+  margin : 5px;
+  padding : 10px;
+  border: black solid 2px;
+}
+#HEADER{
+  background-color: green;
+  text-align: center;
+}
+#FOOTER{
+  background-color: red;
+  text-align: center;
+}
